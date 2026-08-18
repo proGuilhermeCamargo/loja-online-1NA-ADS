@@ -2,5 +2,5 @@
 
 
 export const App = () => {
-    return "ola mundo"
+    return "ola mundo ajuste no app js"
 }
